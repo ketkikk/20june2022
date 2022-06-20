@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\bin\Debug\netcoreapp3.1\var and dynamic keyword.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\var and dynamic keyword\var and dynamic keyword\obj\Debug\netcoreapp3.1\var and dynamic keyword.genruntimeconfig.cache
